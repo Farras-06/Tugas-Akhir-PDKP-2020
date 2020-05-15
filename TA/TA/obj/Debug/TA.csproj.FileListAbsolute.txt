@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\TA\TA\bin\Debug\TA.exe.config
+C:\Users\asus\source\repos\TA\TA\bin\Debug\TA.exe
+C:\Users\asus\source\repos\TA\TA\bin\Debug\TA.pdb
+C:\Users\asus\source\repos\TA\TA\obj\Debug\TA.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\TA\TA\obj\Debug\TA.Form1.resources
+C:\Users\asus\source\repos\TA\TA\obj\Debug\TA.Properties.Resources.resources
+C:\Users\asus\source\repos\TA\TA\obj\Debug\TA.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\TA\TA\obj\Debug\TA.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\TA\TA\obj\Debug\TA.exe
+C:\Users\asus\source\repos\TA\TA\obj\Debug\TA.pdb
+C:\Users\asus\source\repos\TA\TA\obj\Debug\TA.Form2.resources
+C:\Users\asus\source\repos\TA\TA\obj\Debug\TA.Form3.resources
